@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/d6b8dde2d25b2e7005379.jpg" alt="JD-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/1f52cd8cf6a8107ee30ea.jpg" alt="JD-The-File-Donor Logo">
 </p>
 <h1 align="center">
   <b>JD-The-File-Donor Bot</b>
